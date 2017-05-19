@@ -14,4 +14,4 @@ So you see, competition makes a crappy village but can be a lot of fun.
 
 
 [try it out](http://dissaranged.github.io/road-river-hedge/rules.html)
-[I'm an inline-style link](https://www.google.com)
+
