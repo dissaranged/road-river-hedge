@@ -13,5 +13,5 @@ You are a wild Hippie somewhere in the Wood and you and your tribe started to bu
 So you see, competition makes a crappy village but can be a lot of fun.
 
 
-[try it out](http://dissaranged.github.io/road-river-hedge/rules.html, Play Road River Hedge)
+[try it out](http://dissaranged.github.io/road-river-hedge/rules.htm  Play Road River Hedge)
 [I'm an inline-style link](https://www.google.com)
